@@ -1,0 +1,19 @@
+# Testing
+
+Use a tool like Postman to test your server's endpoints for each HTTP request type (GET, POST, PUT, DELETE).
+
+Send a GET request to http://localhost:3000/ to test the root endpoint.
+
+Send a POST request with JSON data to http://localhost:3000/api to test the POST endpoint.
+
+Send a PUT request with JSON data to http://localhost:3000/api to test the PUT endpoint.
+
+Send a DELETE request to http://localhost:3000/api to test the DELETE endpoint. 
+
+
+# concluson 
+
+Here we can coneect with database to maintain our data in database in relational databse like Mysql,sqlite and non relational data base like mongoDb
+
+
+
